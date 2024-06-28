@@ -7,3 +7,10 @@ git commit: Registra as mudanças no respositório local
 git push: Sobe as mudanças para o respositório
 
 git pull: Baixa as mudanças para o repositório local
+
+git revert codCommit: Desfaz as mudanças do commit inserido
+fazendo um novo commit com as alterações anteriores ao commit inserido
+
+git reset --hard codCommitAnterior: O comando git reset permite redefinir a posição da branch atual para um commit anterior, removendo os commits posteriores do histórico. (Apenas fazer em seu repositório local)
+
+git commit --amend -m "Mensagem alterada": Usado para alterar a mensagem do commit caso seja inserida errada no momento do commit
