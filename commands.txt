@@ -1,0 +1,9 @@
+git status: Verifica quais arquivos foram modificados
+
+git add: Adiciona as mudanças
+
+git commit: Registra as mudanças no respositório local
+
+git push: Sobe as mudanças para o respositório
+
+git pull: Baixa as mudanças para o repositório local
